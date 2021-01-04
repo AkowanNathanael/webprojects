@@ -1,5 +1,5 @@
 # An animated search bar
-> check it out here [<a href="https://akowannathanael.github.io/webprojects/"> link to the search button bar </a>]
+> check it out here [<a href="https://akowannathanael.github.io/nathanaelakowan.github.io/"> link to my Portfolio repository </a>]
 ## NB This is project of mine is not license <br/>
  
 > <a href="https://twitter.com/danyonathaniel7?z=08"> follow me on twitter </a> <br/>
